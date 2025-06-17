@@ -3,7 +3,7 @@ name: Compila y genera PDF
 on:
   push:
 
- jobs:
+jobs:
    compila:
      runs-on: ubuntu-latest
 
